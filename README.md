@@ -19,3 +19,9 @@
 ![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution18/solution18.jpg)
 
 [here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution18/solution18.kt)
+
+**19. Issue "Same tree" / Проблема "Равные деревья"**
+
+![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution19/solution19.jpg)
+
+[here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution19/solution19.kt)
