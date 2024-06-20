@@ -28,25 +28,9 @@
  * Telegram: https://t.me/c/2225351477/24
  */
 class Solution {
-    fun inorderTraversal(root: TreeNode?): List<Int> {
-        if(root == null) return emptyList()
-        var result = mutableListOf<Int>()
-        
-        result += test(root.left)
-        result.add(root.`val`)
-        result += test(root.right)
-        return result
-    }
-
-    fun test(root: TreeNode?): List<Int> {
-        if(root == null) return emptyList()
-
-        var result = mutableListOf<Int>()
-
-        result += test(root.left)
-        result.add(root.`val`)
-        result += test(root.right)
-        
-        return result
+    fun isSameTree(p: TreeNode?, q: TreeNode?): Boolean {
+        if (p == q) return true
+        if (p == null || q == null || p.`val` != q.`val`) return false
+        return isSameTree(p.left, q.left) && isSameTree(p.right, q.right)
     }
 }
