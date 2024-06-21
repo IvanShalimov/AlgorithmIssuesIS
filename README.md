@@ -31,3 +31,9 @@
 ![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution20/solution20.jpg)
 
 [here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution20/solution20.kt)
+
+**21. Issue "Maximum Depth of Binary Tree" / Проблема "Максимальная глубина бинарного дерева"**
+
+![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution21/solution21.jpg)
+
+[here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution21/solution21.kt)
