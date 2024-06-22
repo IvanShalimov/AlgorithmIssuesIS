@@ -37,3 +37,9 @@
 ![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution21/solution21.jpg)
 
 [here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution21/solution21.kt)
+
+**22. Issue "Convert Sorted Array to Binary Search Tree"/ Проблема "Конвертировать сортированный массив в Бинарное Дерево Поиска"**
+
+![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution22/solution22.jpg)
+
+[here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution22/solution22.kt)
