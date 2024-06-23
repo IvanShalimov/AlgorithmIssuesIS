@@ -79,3 +79,9 @@
 ![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2022/solution22.jpg)
 
 [here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2022/solution22.kt)
+
+**23. Issue "Balanced Binary Tree"/ Проблема "Сбалансированное Бинарное Дерево"**
+
+![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2023/solution23.jpg)
+
+[here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2023/solution23.kt)
