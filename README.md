@@ -85,3 +85,9 @@
 ![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2023/solution23.jpg)
 
 [here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2023/solution23.kt)
+
+**24. Issue "Minimum Depth of Binary Tree"/ Проблема "Минимальная глубина бинарного дерева"**
+
+![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2024/solution24.jpg)
+
+[here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2024/solution24.kt)
