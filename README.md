@@ -91,3 +91,9 @@
 ![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2024/solution24.jpg)
 
 [here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2024/solution24.kt)
+
+**25. Issue "Path Sum"/ Проблема "Сумма пути"**
+
+![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2025/solution25.jpg)
+
+[here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2025/solution25.kt)
