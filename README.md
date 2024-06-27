@@ -1,4 +1,4 @@
-# AlgorithmIssuesIS
+# Algorithm Issues
 ### 111 algorithm issues fromm leetcode
 [Source/Источник](https://leetcode.com/)
 
@@ -97,3 +97,11 @@
 ![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2025/solution25.jpg)
 
 [here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2025/solution25.kt)
+
+**26. Issue "Pascal's Triangle"/ Проблема "Треугольник Паскаля"**
+
+![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2026/solution26.jpg)
+
+![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2026/pascaltriangle.gif)
+
+[here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2026/solution26.kt)
