@@ -117,3 +117,9 @@
 ![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2028/solution28.jpg)
 
 [here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2028/solution28.kt)
+
+**29. Issue "Valid Palindrom"/ Проблема "Валидный палиндром"**
+
+![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2029/solution29.jpg)
+
+[here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2029/solution29.kt)
