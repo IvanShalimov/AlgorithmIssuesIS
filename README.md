@@ -111,3 +111,9 @@
 ![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2027/solution27.jpg)
 
 [here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2027/solution27.kt)
+
+**28. Issue "Best Time to Buy and Sell Stock"/ Проблема "Лучшее время для покупки и продажи"**
+
+![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2028/solution28.jpg)
+
+[here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2028/solution28.kt)
