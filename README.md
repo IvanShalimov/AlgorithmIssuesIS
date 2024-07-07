@@ -153,3 +153,9 @@
 ![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2034/solution34.jpg)
 
 [here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2034/solution34.kt)
+
+**35. Issue "Excel Sheet Column Title"/ Проблема "Заголовок столбца Excel"**
+
+![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2035/solution35.jpg)
+
+[here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2035/solution35.kt)
