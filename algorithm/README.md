@@ -12,7 +12,7 @@
 
 [here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/algorithm/solution%2027/solution27.kt)
 
-**27. Issue "Majority Element"/ Проблема "Элемент-большинство"**
+**36. Issue "Majority Element"/ Проблема "Элемент-большинство"**
 
 ![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/algorithm/solution%2036/solution36.jpg)
 
