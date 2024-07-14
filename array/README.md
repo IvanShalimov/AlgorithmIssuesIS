@@ -35,3 +35,7 @@
 [**43. Issue "Contains Duplicate"/ Проблема "Содержит Дублирование"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2043/solution43.kt)
 
 ![score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2043/solution43.jpg)
+
+[**44. Issue "Contains Duplicate 2"/ Проблема "Содержит Дублирование 2"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2044/solution44.kt)
+
+![score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2044/solution44.jpg)
