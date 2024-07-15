@@ -39,3 +39,7 @@
 [**33. Issue "Binary Tree Postorder Traversal"/ Проблема "Postorder обход бинарного дерева"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2033/solution33.kt)
 
 ![Score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/binarytree/solution%2033/solution33.jpg)
+
+[**45. Issue "Count Complete Tree Nodes"/ Проблема "Подсчет Узлов Полного Дерева"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2045/solution45.kt)
+
+![Score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/binarytree/solution%2045/solution45.jpg)
