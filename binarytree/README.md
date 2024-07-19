@@ -43,3 +43,7 @@
 [**45. Issue "Count Complete Tree Nodes"/ Проблема "Подсчет Узлов Полного Дерева"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2045/solution45.kt)
 
 ![Score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/binarytree/solution%2045/solution45.jpg)
+
+[**47. Issue "Invert Binary Tree"/ Проблема "Разворот Бинарного Дерева"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2047/solution47.kt)
+
+![Score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/binarytree/solution%2047/solution47.jpg)
