@@ -55,3 +55,7 @@
 [**41. Issue "Isomorphic String"/ Проблема "Изоморфные строки"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2041/solution41.kt)
 
 ![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2041/solution41.jpg)
+
+[**49. Issue "Power of Two"/ Проблема "Степень двойки"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2049/solution49.kt)
+
+![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2049/solution49.png)
