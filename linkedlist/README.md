@@ -17,3 +17,6 @@
 
 [**42. Issues Reverse Linked List/Проблема Переворот Связанного списка**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/linkedlist/solution%2042/soluiton42.kt)
 ![Score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/linkedlist/solution%2042/solution42.jpg)
+
+[**51. Issues Palindrome Linked List/Проблема Связанный Список Палиндром**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/linkedlist/solution%2051/soluiton51.kt)
+![Score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/linkedlist/solution%2051/solution51.jpg)
