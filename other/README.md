@@ -59,3 +59,7 @@
 [**49. Issue "Power of Two"/ Проблема "Степень двойки"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2049/solution49.kt)
 
 ![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2049/solution49.png)
+
+[**52. Issue "Valid Anagram"/ Проблема "Валидная Анаграмма"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2052/solution52.kt)
+
+![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2052/solution52.jpg)
