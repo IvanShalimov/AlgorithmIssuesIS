@@ -47,3 +47,7 @@
 [**47. Issue "Invert Binary Tree"/ Проблема "Разворот Бинарного Дерева"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2047/solution47.kt)
 
 ![Score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/binarytree/solution%2047/solution47.jpg)
+
+[**53. Issue "Binary Tree Paths"/ Проблема "Пути Бинарного Дерева"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2053/solution53.kt)
+
+![Score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/binarytree/solution%2053/solution53.jpg)
