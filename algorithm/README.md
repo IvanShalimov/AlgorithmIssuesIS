@@ -17,3 +17,9 @@
 ![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/algorithm/solution%2036/solution36.jpg)
 
 [here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/algorithm/solution%2036/solution36.kt)
+
+**54. Issue "Add Digits"/ Проблема "Сложение Цифр"**
+
+![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/algorithm/solution%2054/solution54.jpg)
+
+[here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/algorithm/solution%2054/solution5.kt)
