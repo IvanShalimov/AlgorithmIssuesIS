@@ -63,3 +63,7 @@
 [**52. Issue "Valid Anagram"/ Проблема "Валидная Анаграмма"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2052/solution52.kt)
 
 ![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2052/solution52.jpg)
+
+[**55. Issue "Ugly Number"/ Проблема "Уродливое число"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2055/solution55.kt)
+
+![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2055/solution55.jpg)
