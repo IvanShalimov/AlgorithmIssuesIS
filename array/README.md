@@ -39,3 +39,7 @@
 [**44. Issue "Contains Duplicate 2"/ Проблема "Содержит Дублирование 2"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2044/solution44.kt)
 
 ![score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2044/solution44.jpg)
+
+[**56. Issue "Missing Number"/ Проблема "Пропущенное число"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2056/solution56.kt)
+
+![score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2056/solution56.jpg)
