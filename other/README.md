@@ -67,3 +67,7 @@
 [**55. Issue "Ugly Number"/ Проблема "Уродливое число"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2055/solution55.kt)
 
 ![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2055/solution55.jpg)
+
+[**57. Issue "First Bad Version"/ Проблема "Первая Плохая Версия"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2057/solution57.kt)
+
+![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2057/solution57.jpg)
