@@ -43,3 +43,7 @@
 [**56. Issue "Missing Number"/ Проблема "Пропущенное число"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2056/solution56.kt)
 
 ![score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2056/solution56.jpg)
+
+[**59. Issue "Move Zero"/ Проблема "Передвинуть нули"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2059/solution59.kt)
+
+![score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2059/solution59.jpg)
