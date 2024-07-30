@@ -71,3 +71,7 @@
 [**57. Issue "First Bad Version"/ Проблема "Первая Плохая Версия"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2057/solution57.kt)
 
 ![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2057/solution57.jpg)
+
+[**60. Issue "Word Pattern"/ Проблема "Паттерн Слова"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2060/solution60.kt)
+
+![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2060/solution60.jpg)
