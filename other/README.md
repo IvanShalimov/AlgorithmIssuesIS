@@ -75,3 +75,7 @@
 [**60. Issue "Word Pattern"/ Проблема "Паттерн Слова"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2060/solution60.kt)
 
 ![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2060/solution60.jpg)
+
+[**61. Issue "Nim Game"/ -**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2061/solution61.kt)
+
+![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2061/solution61.jpg)
