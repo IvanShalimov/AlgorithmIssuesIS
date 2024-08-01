@@ -47,3 +47,7 @@
 [**59. Issue "Move Zero"/ Проблема "Передвинуть нули"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2059/solution59.kt)
 
 ![score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2059/solution59.jpg)
+
+[**62. Issue "Range Sum Query Immutable"/ Проблема "-"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2062/solution62.kt)
+
+![score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2062/solution62.jpg)
