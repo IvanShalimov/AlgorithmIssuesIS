@@ -79,3 +79,7 @@
 [**61. Issue "Nim Game"/ -**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2061/solution61.kt)
 
 ![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2061/solution61.jpg)
+
+[**63. Issue "Power of Three"/ Проблема "Степень тройки"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2063/solution63.kt)
+
+![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2063/solution63.jpg)
