@@ -83,3 +83,8 @@
 [**63. Issue "Power of Three"/ Проблема "Степень тройки"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2063/solution63.kt)
 
 ![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2063/solution63.jpg)
+
+[**64. Issue "Power of Four"/ Проблема "Степень четверки"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2064/solution64.kt)
+
+![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2064/solution64.jpg)
+
