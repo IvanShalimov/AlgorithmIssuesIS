@@ -51,3 +51,7 @@
 [**62. Issue "Range Sum Query Immutable"/ Проблема "-"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2062/solution62.kt)
 
 ![score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2062/solution62.jpg)
+
+[**66. Issue "Reverse String"/ Проблема "Разворот строки"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2066/solution66.kt)
+
+![score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2066/solution66.jpg)
