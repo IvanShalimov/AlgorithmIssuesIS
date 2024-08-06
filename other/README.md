@@ -88,3 +88,6 @@
 
 ![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2064/solution64.jpg)
 
+[**67. Issue "Reverse Vowels ofa String"/ Проблема "Переворот гласных в строке"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2067/solution67.kt)
+
+![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2067/solution67.jpg)
