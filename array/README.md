@@ -55,3 +55,7 @@
 [**66. Issue "Reverse String"/ Проблема "Разворот строки"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2066/solution66.kt)
 
 ![score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2066/solution66.jpg)
+
+[**68. Issue "Intersection of Two Array"/ Проблема "Пересечения двух массивов"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2068/solution68.kt)
+
+![score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2068/solution68.jpg)
