@@ -59,3 +59,7 @@
 [**68. Issue "Intersection of Two Array"/ Проблема "Пересечения двух массивов"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2068/solution68.kt)
 
 ![score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2068/solution68.jpg)
+
+[**69. Issue "Intersection of Two Array 2"/ Проблема "Пересечения двух массивов 2"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2069/solution69.kt)
+
+![score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2069/solution69.jpg)
