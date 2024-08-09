@@ -91,3 +91,7 @@
 [**67. Issue "Reverse Vowels ofa String"/ Проблема "Переворот гласных в строке"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2067/solution67.kt)
 
 ![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2067/solution67.jpg)
+
+[**70. Issue "Valid Perfect Square"/ Проблема "Валидный Идеальный Квадрат"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2070/solution70.kt)
+
+![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2070/solution70.jpg)
