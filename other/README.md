@@ -95,3 +95,5 @@
 [**70. Issue "Valid Perfect Square"/ Проблема "Валидный Идеальный Квадрат"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2070/solution70.kt)
 
 ![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2070/solution70.jpg)
+
+[**71. Issue "Guess Number Higher or Lowere"/ Проблема "Угадай Больше или Меньше"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2071/solution71.kt)
