@@ -63,3 +63,7 @@
 [**69. Issue "Intersection of Two Array 2"/ Проблема "Пересечения двух массивов 2"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2069/solution69.kt)
 
 ![score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2069/solution69.jpg)
+
+[**74. Issue "Find the Diference"/ Проблема "Найди разницу"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2074/solution74.kt)
+
+![score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2074/solution74.jpg)
