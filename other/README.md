@@ -101,3 +101,7 @@
 [**72. Issue "Ransom Note"/ Проблема "Записка о Выкупе"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2072/solution72.kt)
 
 ![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2072/solution72.jpg)
+
+[**75. Issue "Is Subsequence"/ Проблема "Подмножество"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2075/solution75.kt)
+
+![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2075/solution75.jpg)
