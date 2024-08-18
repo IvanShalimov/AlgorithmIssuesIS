@@ -51,3 +51,7 @@
 [**53. Issue "Binary Tree Paths"/ Проблема "Пути Бинарного Дерева"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2053/solution53.kt)
 
 ![Score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/binarytree/solution%2053/solution53.jpg)
+
+[**77. Issue "Sum of The Left Leaves"/ Проблема "Сумма Левых Листьев"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2077/solution77.kt)
+
+![Score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/binarytree/solution%2077/solution77.jpg)
