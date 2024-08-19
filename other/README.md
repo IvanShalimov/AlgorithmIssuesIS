@@ -105,3 +105,7 @@
 [**75. Issue "Is Subsequence"/ Проблема "Подмножество"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2075/solution75.kt)
 
 ![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2075/solution75.jpg)
+
+[**80. Issue "Fizz-Buzz"/ Проблема "-"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2080/solution80.kt)
+
+![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2080/solution80.jpg)
