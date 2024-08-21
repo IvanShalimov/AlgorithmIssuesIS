@@ -109,3 +109,7 @@
 [**80. Issue "Fizz-Buzz"/ Проблема "-"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2080/solution80.kt)
 
 ![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2080/solution80.jpg)
+
+[**80. Issue "Add Strings"/ Проблема "Сложнеие строк"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2081/solution81.kt)
+
+![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2081/solution81.jpg)
