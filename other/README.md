@@ -110,6 +110,10 @@
 
 ![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2080/solution80.jpg)
 
-[**80. Issue "Add Strings"/ Проблема "Сложнеие строк"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2082/solution82.kt)
+[**82. Issue "Add Strings"/ Проблема "Сложнеие строк"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2082/solution82.kt)
 
 ![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2082/solution82.jpg)
+
+[**83. Issue "Number of Segment in a String"/ Проблема "Количество сегментов в строке"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2083/solution83.kt)
+
+![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2083/solution83.jpg)
