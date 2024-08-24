@@ -67,3 +67,7 @@
 [**74. Issue "Find the Diference"/ Проблема "Найди разницу"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2074/solution74.kt)
 
 ![score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2074/solution74.jpg)
+
+[**74. Issue "Find all Numbers Disapperead in an Array"/ Проблема "Найти все пропавшие числа в массиве"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2085/solution85.kt)
+
+![score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2085/solution85.jpg)
