@@ -71,3 +71,7 @@
 [**74. Issue "Find all Numbers Disapperead in an Array"/ Проблема "Найти все пропавшие числа в массиве"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2085/solution85.kt)
 
 ![score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2085/solution85.jpg)
+
+[**89. Issue "Island Perimeter"/ Проблема "Периметр Острова"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2089/solution89.kt)
+
+![score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2089/solution89.jpg)
