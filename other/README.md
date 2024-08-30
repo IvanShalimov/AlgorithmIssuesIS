@@ -117,3 +117,7 @@
 [**83. Issue "Number of Segment in a String"/ Проблема "Количество сегментов в строке"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2083/solution83.kt)
 
 ![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2083/solution83.jpg)
+
+[**91. Issue "Licanse Key Formatting"/ Проблема "Форматирование лицензинного ключа"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2091/solution91.kt)
+
+![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2091/solution91.jpg)
