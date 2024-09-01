@@ -121,3 +121,7 @@
 [**91. Issue "Licanse Key Formatting"/ Проблема "Форматирование лицензинного ключа"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2091/solution91.kt)
 
 ![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2091/solution91.jpg)
+
+[**93. Issue "Construct the Rectangle"/ Проблема "Конструирование Прямоугольника"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2093/solution93.kt)
+
+![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2093/solution93.jpg)
