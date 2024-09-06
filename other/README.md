@@ -125,3 +125,7 @@
 [**93. Issue "Construct the Rectangle"/ Проблема "Конструирование Прямоугольника"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2093/solution93.kt)
 
 ![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2093/solution93.jpg)
+
+[**98. Issue "Base 7"/ Проблема "-"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2098/solution98.kt)
+
+![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2098/solution98.jpg)
