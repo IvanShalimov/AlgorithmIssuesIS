@@ -22,4 +22,10 @@
 
 ![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/algorithm/solution%2054/solution54.jpg)
 
-[here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/algorithm/solution%2054/solution5.kt)
+[here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/algorithm/solution%2054/solution54.kt)
+
+**101. Issue "Fibonacci Number"/ Проблема "Число Фибоначчи"**
+
+![Result/Результат](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/algorithm/solution%20101/solution101.jpg)
+
+[here/тут](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/algorithm/solution%20101/solution101.kt)
