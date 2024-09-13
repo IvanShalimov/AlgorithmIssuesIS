@@ -129,3 +129,7 @@
 [**98. Issue "Base 7"/ Проблема "-"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2098/solution98.kt)
 
 ![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%2098/solution98.jpg)
+
+[**105. Issue "Reverse String 2"/ Проблема "-"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%20105/solution105.kt)
+
+![**Score"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/other/solution%20105/solution105.jpg)
