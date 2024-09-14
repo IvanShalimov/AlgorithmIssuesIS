@@ -55,3 +55,7 @@
 [**77. Issue "Sum of The Left Leaves"/ Проблема "Сумма Левых Листьев"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%2077/solution77.kt)
 
 ![Score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/binarytree/solution%2077/solution77.jpg)
+
+[**106. Issue "Diameter of Binary Tree"/ Проблема "-"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%20106/solution106.kt)
+
+![Score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/binarytree/solution%20106/solution106.jpg)
