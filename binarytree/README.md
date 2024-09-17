@@ -59,3 +59,7 @@
 [**106. Issue "Diameter of Binary Tree"/ Проблема "-"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%20106/solution106.kt)
 
 ![Score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/binarytree/solution%20106/solution106.jpg)
+
+[**109. Issue "Maximum Depth of N-ary Tree"/ Проблема "-"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/solution%20109/solution109.kt)
+
+![Score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/binarytree/solution%20109/solution109.jpg)
