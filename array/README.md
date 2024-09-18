@@ -79,3 +79,7 @@
 [**94. Issue "Teemo Attacking"/ Проблема "-"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2094/solution94.kt)
 
 ![score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%2094/solution94.jpg)
+
+[**110. Issue "Array Partition"/ Проблема "-"**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%20110/solution110.kt)
+
+![score](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/array/solution%20110/solution110.jpg)
