@@ -12,3 +12,5 @@
 [**Other/ Другое**](https://github.com/IvanShalimov/AlgorithmIssuesIS/tree/main/other)
 
 Progress: 111/111
+
+DONE
