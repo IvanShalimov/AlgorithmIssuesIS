@@ -1,4 +1,4 @@
-# Algorithm Issues
+[# Algorithm Issues
 ### 111 algorithm issues fromm [leetcode](https://leetcode.com/)
 
 [**Algorithm issues/ Алгоритмические задачки**](https://github.com/IvanShalimov/AlgorithmIssuesIS/blob/main/algorithm)
@@ -14,3 +14,7 @@
 Progress: 111/111
 
 DONE
+
+## Extra
+* [Yoda Speech Algorithm/ Алгоритм для преобразования порядка слов в порядок слов Йойды(EN)](https://github.com/IvanShalimov/AlgorithmIssuesIS/tree/main/yodaspeech)
+* [Merciful Stalin Sort in Kotlin/ Милосердная сортировка имени Сталина](https://github.com/IvanShalimov/AlgorithmIssuesIS/tree/main/mercifulstalinsort)
