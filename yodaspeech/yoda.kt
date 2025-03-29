@@ -1,3 +1,13 @@
+import opennlp.tools.cmdline.parser.ParserTool
+import opennlp.tools.tokenize.TokenizerME
+import opennlp.tools.tokenize.TokenizerModel
+import opennlp.tools.postag.POSModel
+import opennlp.tools.postag.POSTaggerME
+import opennlp.tools.parser.ParserFactory
+import opennlp.tools.parser.ParserModel
+import opennlp.tools.parser.Parse
+import java.io.FileInputStream
+
 enum class TYPE_OF_SENTENCE {
     SENTENCE,
     QUESTION;
@@ -11,20 +21,27 @@ val questionVerbs = listOf("do", "does", "did", "could", "would") + verbs
 /*
 * The cat is eating fish
 * You are mighty master jedi
-* You will go to the store.
-* I am your father.
-* The dark side is powerful.
-* We must trust the Force.
+* You will go to the store
+* I am your father
+* The dark side is powerful
+* We must trust the Force
 * Do you understand the Force?
 * Is the dark side stronger?
 * Can you feel the power?
-* Will you join me?
 * */
 fun main() {
-    println(getYodaString("You will go to the store"))
+    println(getYodaString("Is the dark side stronger?", 2))
 }
 
-fun getYodaString(original: String): String {
+fun getYodaString(original: String, version:Int): String {
+    return when(version) {
+        1 -> getYodaStringV1(original)
+        2 -> getYodaStringV2(original)
+        else -> ""
+    }
+}
+
+private fun getYodaStringV1(original: String): String {
     return when(getTypeOfSentence(original)) {
         TYPE_OF_SENTENCE.QUESTION -> {
             val spo = splitQuestionOnSPO(original)
@@ -34,6 +51,23 @@ fun getYodaString(original: String): String {
         }
         TYPE_OF_SENTENCE.SENTENCE -> {
             val spo = splitSentenceOnSPO(original)
+            if (spo.isEmpty()) return ""
+
+            "${spo[2].capitalize()} ${spo[0].lowercase()} ${spo[1].lowercase()}"
+        }
+    }
+}
+
+private fun getYodaStringV2(original: String): String {
+    return when(getTypeOfSentence(original)) {
+        TYPE_OF_SENTENCE.QUESTION -> {
+            val spo = splitSentenceOnSPOV2(original.replace("?",""), true)
+            if (spo.isEmpty()) return ""
+
+            "${spo[2].capitalize()} ${spo[1].lowercase()} ${spo[0].lowercase()} "+"?"
+        }
+        TYPE_OF_SENTENCE.SENTENCE -> {
+            val spo = splitSentenceOnSPOV2(original, false)//splitSentenceOnSPO(original)
             if (spo.isEmpty()) return ""
 
             "${spo[2].capitalize()} ${spo[0].lowercase()} ${spo[1].lowercase()}"
@@ -51,6 +85,160 @@ fun getTypeOfSentence(sentence: String): TYPE_OF_SENTENCE {
         questionVerbs.contains(words[0]) -> TYPE_OF_SENTENCE.QUESTION
         else -> TYPE_OF_SENTENCE.SENTENCE
     }
+}
+
+fun splitSentenceOnSPOV2(rawSpeech: String,isQuestion: Boolean): List<String> {
+    // Load models
+    val tokenizerModel = TokenizerModel(FileInputStream("src/main/resources/models/en-token.bin"))
+    val posModel = POSModel(FileInputStream("src/main/resources/models/en-pos-maxent.bin"))
+    val parserModel = ParserModel(FileInputStream("src/main/resources/models/en-parser-chunking.bin"))
+
+    // Initialize tools
+    val tokenizer = TokenizerME(tokenizerModel)
+    val posTagger = POSTaggerME(posModel)
+    val parser = ParserFactory.create(parserModel)
+
+    // Input sentence
+    val sentence = rawSpeech
+
+    // Step 1: Tokenize the sentence
+    val tokens = tokenizer.tokenize(sentence)
+
+    // Step 2: Perform POS tagging
+    val tags = posTagger.tag(tokens)
+
+    // Step 3: Parse the sentence
+    val parse = ParserTool.parseLine(sentence, parser, 1).first()
+
+    // Step 4: Extract subject, verb, and object
+    val (subject, verb, obj) = extractSVO(parse, isQuestion)
+
+    return listOf(subject, verb, obj)
+}
+
+fun extractSVO(parse: Parse, isQuestion: Boolean): Triple<String, String, String> {
+    var subject = ""
+    var verb = ""
+    var obj = ""
+
+    // Рекурсивная функция для поиска SVO
+    fun traverse(node: Parse) {
+        when (node.type) {
+            "NP" -> if (subject.isEmpty()) subject = node.coveredText  // Первое найденное NP - это подлежащее
+            "VBP" -> {
+                node.children.forEach { child ->
+                    if (child.type.startsWith("TK")
+                    ) {
+                        if(verb.isEmpty()) {
+                            verb += child.coveredText
+                        } else {
+                            verb += " ${child.coveredText}"
+                        }
+                    }
+                }
+            }
+            "."->{
+                node.children.forEach { child ->
+                    if(obj.isEmpty()) {
+                        obj += child.coveredText
+                    } else {
+                        obj += " ${child.coveredText}"
+                    }
+                }
+            }
+            "VBZ"->{
+                // Ищем глагол
+                node.children.forEach { child ->
+                    if(verb.isEmpty()) {
+                        verb += child.coveredText
+                    } else {
+                        verb += " ${child.coveredText}"
+                    }
+                }
+            }
+            "VP" -> {
+                // Ищем глагол
+                node.children.forEach { child ->
+                    if (child.type.startsWith("VB") ||
+                        child.type.startsWith("VBG") ||
+                        child.type.startsWith("VBZ") ||
+                        child.type.startsWith("MD")
+                        ) {
+                        if(verb.isEmpty()) {
+                            verb += child.coveredText
+                        } else {
+                            verb += " ${child.coveredText}"
+                        }
+                    }
+                }
+                // Ищем объект
+                node.children.forEach { child ->
+                    if (
+                        child.type == "NP" ||
+                        child.type == "TO" ||
+                        child.type == "DT" ||
+                        child.type == "NN"
+                        ) {
+                        if(obj.isEmpty()) {
+                            obj = child.coveredText
+                        } else {
+                            obj += " ${child.coveredText}"
+                        }
+
+                    }
+                }
+            }
+            "PP" -> {
+                // Ищем объект
+                node.children.forEach { child ->
+                    if (
+                        child.type == "NP" ||
+                        child.type == "TO" ||
+                        child.type == "DT" ||
+                        child.type == "NN"
+                    ) {
+                        if(obj.isEmpty()) {
+                            obj = child.coveredText
+                        } else {
+                            obj += " ${child.coveredText}"
+                        }
+
+                    }
+                }
+            }
+            "ADJP" -> {
+                node.children.forEach { child ->
+                    if (
+                        child.type == "JJ"
+                    ) {
+                        if(obj.isEmpty()) {
+                            obj = child.coveredText
+                        } else {
+                            obj += " ${child.coveredText}"
+                        }
+
+                    }
+                }
+            }
+            "MD"-> {
+                if (isQuestion) {
+                    // Ищем глагол
+                    node.children.forEach { child ->
+                        if (verb.isEmpty()) {
+                            verb += child.coveredText
+                        } else {
+                            verb += " ${child.coveredText}"
+                        }
+                    }
+                }
+            }
+        }
+        // Рекурсивно обходим всех детей узла
+        node.children.forEach { traverse(it) }
+    }
+
+    traverse(parse)
+    return Triple(subject, verb, obj)
 }
 
 fun splitSentenceOnSPO(rawSpeech: String): List<String> {
