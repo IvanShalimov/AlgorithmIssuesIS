@@ -83,7 +83,7 @@ Here’s how Yoda might ask questions compared to standard English:
 - **Cultural Identity**: It reinforces his unique way of thinking and speaking, setting him apart from other characters.
 
 ## Details
-Supporting verbs
+Supporting verbs for version 1
 - "am"
 - "is"
 - "are"
@@ -99,5 +99,29 @@ Supporting verbs
 - "could"
 - "would"
 
+## Version 2
+### Key change:
+Add work with NLP model from Apache OpenNLP 2.5.3. 
+Open models source: https://opennlp.apache.org/models.html
+If you want to keep old way to split sentence on  SVO(Subject-Verb-Object) pass "1" in argument "version" else use "2" for argument "version" of function "getYodaString"
+
+### Known Limitation
+- In simple sentence I can't handle punctuation marks
+
+### Test Cases
+* The cat is eating fish
+* You are mighty master jedi
+* You will go to the store
+* I am your father
+* The dark side is powerful
+* We must trust the Force
+* Do you understand the Force?
+* Is the dark side stronger?
+* Can you feel the power?
+
+### Comments code
+* tokenizer.tokenize(sentence) - The sentence is split into individual tokens (words).
+* val parse = ParserTool.parseLine(sentence, parser, 1).first() - The sentence is parsed into a tree structure, where each node represents a phrase (e.g., noun phrase, verb phrase).
+
 ## What's next
-Add support of work with NLP(by library)
+ -
